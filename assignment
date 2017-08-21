@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+font-family:arial,sans-sarif;
+border-collapse:collapse;
+width:100%;
+}
+td,th{
+ border: 1px solid #dddddd;
+    text-align: left;
+    padding: 6px;
+    }
+    </style>
+    </head>
+    <body>
+    
+    <table>
+    <tr>
+    <td>First name</td>
+    <td>Middle name</td>
+    <td>Point</td>
+    </tr>
+    <tr>
+    <td>preeti</td>
+    <td>suryan</td>
+    <td>90</td>
+    </tr>
+    <tr>
+    <td>Divya</td>
+    <td>suryan</td>
+    <td>80</td>
+    </tr>
+    <tr>
+    <td>soni</td>
+    <td>rajput</td>
+    <td>85</td>
+    </tr>
+    </table>
+    </body>
+    </html>
+
